@@ -43,3 +43,12 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# uploader de fisiere
+gem "carrierwave"
+
+# citeste/scrie taguri id3 pentru fisiere mp3
+gem 'id3lib-ruby'
+
+# Login
+gem 'devise'
